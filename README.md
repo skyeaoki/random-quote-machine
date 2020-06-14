@@ -3,7 +3,7 @@
 `npm start`
 
 # About
-This simple React application displays quotes randomly. The theme color also changes randomly as the quotes change. This is a Free Code Camp Front End Library Project. The requirements are listed below.
+This simple React application displays quotes randomly. The theme color also changes randomly as the quotes change. This is a Free Code Camp Front End Library Project. The requirements are listed below. 
 
 # User Stories
 ### User Story #1
@@ -38,3 +38,6 @@ I can tweet the current quote by clicking on the #tweet-quotea element. This a e
 
 ### User Story #11: 
 The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
+
+# Testing  
+To enable Free Code Camp tests, uncomment the script in public/index.html body. 

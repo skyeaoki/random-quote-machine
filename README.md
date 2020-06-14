@@ -1,40 +1,40 @@
-#Getting Started
+# Getting Started  
 `npm install`  
 `npm start`
 
-#About
+# About
 This simple React application displays quotes randomly. The theme color also changes randomly as the quotes change. This is a Free Code Camp Front End Library Project. The requirements are listed below.
 
-#User Stories
-###User Story #1
+# User Stories
+### User Story #1
 I can see a wrapper element with a corresponding id="quote-box".
 
-###User Story #2: 
+### User Story #2: 
 Within #quote-box, I can see an element with a corresponding id="text".
 
-###User Story #3: 
+### User Story #3: 
 Within #quote-box, I can see an element with a corresponding id="author".
 
-###User Story #4: 
+### User Story #4: 
 Within #quote-box, I can see a clickable element with a corresponding id="new-quote".
 
-###User Story #5: 
+### User Story #5: 
 Within #quote-box, I can see a clickable a element with a corresponding id="tweet-quote".
 
-###User Story #6: 
+### User Story #6: 
 On first load, my quote machine displays a random quote in the element with id="text".
 
-###User Story #7: 
+### User Story #7: 
 On first load, my quote machine displays the random quote's author in the element with id="author".
 
-###User Story #8: 
+### User Story #8: 
 When the #new-quote button is clicked, my quote machine should fetch a new quote and display it in the #text element.
 
-###User Story #9: 
+### User Story #9: 
 My quote machine should fetch the new quote's author when the #new-quote button is clicked and display it in the #author element.
 
-###User Story #10: 
+### User Story #10: 
 I can tweet the current quote by clicking on the #tweet-quotea element. This a element should include the "twitter.com/intent/tweet" path in its href attribute to tweet the current quote.
 
-###User Story #11: 
+### User Story #11: 
 The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.

@@ -1,0 +1,12 @@
+.tweetBtn__icon {
+    height: 50px;
+    width: 50px;
+}
+
+/* For small screens */
+@media (max-width: 600px) {
+    .tweetBtn__icon {
+        height: 40px;
+        width: 40px;
+    }
+}
